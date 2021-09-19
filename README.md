@@ -17,3 +17,4 @@
 ==> ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴏᴜʀ PɪᴋᴀᴄʜᴜXᴅ x sᴄʀᴀᴘᴘᴇʀ ᴀs [ Click Here ](t.me/PikachuXdScrapperBot) 
 
 ==> ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ sᴛᴀʀ ⭐.
+

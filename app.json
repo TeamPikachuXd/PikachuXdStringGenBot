@@ -1,0 +1,39 @@
+{
+    "name": "PikachuXd StringGenerator",
+    "description": "None",
+    "logo": "https://telegra.ph/file/bcf577fae8506abe8e104.jpg",
+    "keywords": ["Telethon", "telegram", "Scrapper", "python"," String Generator","String Session"],
+    "repository": "https://github.com/TeamPikachuXd/StringGenBot",
+    "website": "https://pikachuxd.netlify.app/",
+    "success_url": "https://t.me/PikachuXdSupport",
+    "stack": "container",
+    "env": {
+    "APP_ID": {
+      "description": "Your API ID take it from @PikachuXdScrapperBot or my.telegram.org",
+      "value": "3094117"
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token, as a string."
+      "value": "2014915057:AAGdUpvINM9c1wLCS5kSOnvJi54DE1Ms6uM"
+    },
+    "API_HASH": {
+      "description": "Your API HASH take it from @DaisyXScrapperBot or my.telegram.org",
+      "value": "e3f1fc0978fca4ffab274ff384146ac1"
+    },
+     "BOT_NAME": {
+      "description": "Write Name Of Your Bot Here",
+      "value": "「ᴘɪᴋᴀᴄʜᴜχᴅ sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ」 "
+    },
+    "COMMAND_PREFIXES": {
+      "description": "skem skem skem",
+      "required": false
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "stack": "heroku-20"
+}

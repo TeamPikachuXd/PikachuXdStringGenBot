@@ -1,7 +1,7 @@
 {
     "name": "PikachuXd StringGenerator",
     "description": "None",
-    "logo": "https://telegra.ph/file/0fbf00e1bcdb037e5daab.jpg",
+    "logo": "https://telegra.ph/file/bcf577fae8506abe8e104.jpg",
     "keywords": ["Telethon", "telegram", "Scrapper", "python"," String Generator","String Session"],
     "repository": "https://github.com/TeamPikachuXd/PikachuXdStringGenBot",
     "website": "https://pikachuxd.netlify.app/",
@@ -10,7 +10,7 @@
     "env": {
     "APP_ID": {
       "description": "Your API ID take it from @PikachuXdScrapperBot or my.telegram.org",
-      "value": "28278"
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string."

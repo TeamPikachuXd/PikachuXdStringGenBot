@@ -10,7 +10,7 @@
 
 # CREDITS
 
-### • Nitric      »»  <a href="https://github.com/lucifeermorningstar" alt="NITRIC"> <img src="https://img.shields.io/badge/Devil-90302f?logo=github" /></a>
+### • Nitric      »»  <a href="https://github.com/mrnitric" alt="NITRIC"> <img src="https://img.shields.io/badge/Nitric-90302f?logo=github" /></a>
 
 # Our Bot
 
